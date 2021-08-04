@@ -1,0 +1,11 @@
+.sidebar {
+  width: 40%;
+  float: right;
+  background-color:lightpink;
+}
+.main {
+  font-family: sans-serif;
+}
+h1 {
+  color: red;
+}
