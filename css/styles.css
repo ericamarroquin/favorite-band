@@ -1,17 +1,32 @@
 .sidebar {
   width: 40%;
   float: right;
-  background-color:lightpink;
-  border: dashed black;
+  background-color: rgb(128, 163, 136);
+  border: dashed whitesmoke;
   padding: 10px;
   margin: 10px;
 }
 .main {
-  font-family: sans-serif;
+  font-family: 'Times New Roman', Times, serif;
 }
 h1 {
   color: red;
 }
+
+h2 {
+  color: rgb(255, 255, 0);
+}
+
+.highlight {
+  background-color: lightblue;
+}
+
 img {
+  width: 30%;
   padding: 4px;
+  float: left;
+}
+
+body {
+  background-color: antiquewhite;
 }
